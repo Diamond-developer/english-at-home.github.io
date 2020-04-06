@@ -23,6 +23,96 @@
       margin-left: auto;
       margin-right: auto;
     }
+    /* animation  */
+  .stars {
+    background: white;
+    height: 15px;
+    width: 15px;
+    border-radius: 50%;
+    animation-iteration-count: infinite;
+  }
+
+  .star-1 {
+    margin-top: 10px;
+    margin-left: 60%;
+    animation-name: twinkle-1;
+    animation-duration: 1s;
+  }
+
+  .star-2 {
+    /* margin-top: 10%; */
+    margin-left: 25%;
+    animation-name: twinkle-2;
+    animation-duration: 1s;
+  }
+
+  .star-3 {
+    /* margin-top: 5%; */
+    margin-left: 40%;
+    animation-name: twinkle-3;
+    animation-duration: 1s;
+  }
+
+  .star-4 {
+    /* margin-top: 5%; */
+    margin-left: 10%;
+    top:0px;
+    animation-name: twinkle-1;
+    animation-duration: 1s;
+  }
+
+  .star-5 {
+    /* margin-top: 5%; */
+    margin-left: 70%;
+    top:0px;
+    animation-name: twinkle-3;
+    animation-duration: 1s;
+  }
+
+  .star-6 {
+    /* margin-top: 5%; */
+    margin-left: 50%;
+    top:0px;
+    animation-name: twinkle-2;
+    animation-duration: 1s;
+  }
+
+  @keyframes twinkle-1 {
+    20% {
+      transform: scale(0.5);
+      opacity: 0.5;
+    }
+    40% {
+      transform: scale(0.5);
+      opacity: 0.5;
+    }
+  }
+
+  @keyframes twinkle-2 {
+    100% {
+      transform: scale(0.5);
+      opacity: 0.5;
+    }
+  }
+
+  @keyframes twinkle-3 {
+    50% {
+      transform: scale(0.5);
+      opacity: 0.5;
+    }
+  }
+
+  #back {
+    position: fixed;
+    padding: 0;
+    margin: 0;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index:0;
+    background: linear-gradient(black, #000099, #66c2ff, #ffcccc, #ffeee6);
+  }
   </style>
   <script>
     $(document).on('click', '.panel div.clickable', function(e) {
