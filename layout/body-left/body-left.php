@@ -57,24 +57,16 @@
         </div>
 
         <div class="col-md-12">
+          <!-- lessione 05 -->
           <?php
             include("menu-lession5.php");
           ?>
             </div>
           </div>
-          <div class="panel panel-warning autocollapse">
-            <div class="panel-heading clickable">
-              <h3 class="panel-title">
-                Lesson 6
-              </h3>
-            </div>
-            <div class="panel-body">
-              <a href="">
-                <div class="alert alert-danger" role="alert">Day 1</div>
-              </a>
-              <a href="">
-                <div class="alert alert-danger" role="alert">Day 2</div>
-              </a>
+          <!-- lessione 06 -->
+          <?php
+            include("menu-lession6.php");
+          ?>
             </div>
           </div>
         </div>

@@ -140,6 +140,98 @@ switch ($directional_dieuhuong) {
 		include("lession05/lession5-day35.html");
 		break;
 
+	//lession 06
+	case "lession6-day36":
+		include("lession06/lession6-day36.html");
+		break;
+	case "lession6-day37":
+		include("lession06/lession6-day37.html");
+		break;
+	case "lession6-day38":
+		include("lession06/lession6-day38.html");
+		break;
+	case "lession6-day39":
+		include("lession06/lession6-day39.html");
+		break;
+	case "lession6-day40":
+		include("lession06/lession6-day40.html");
+		break;
+	case "lession6-day41":
+		include("lession06/lession6-day41.html");
+		break;
+	case "lession6-day42":
+		include("lession06/lession6-day42.html");
+		break;
+
+	//lession 07
+	case "lession7-day43":
+		include("lession07/lession7-day43.html");
+		break;
+	case "lession7-day44":
+		include("lession07/lession7-day44.html");
+		break;
+	case "lession7-day45":
+		include("lession07/lession7-day45.html");
+		break;
+	case "lession7-day46":
+		include("lession07/lession7-day46.html");
+		break;
+	case "lession7-day47":
+		include("lession07/lession7-day47.html");
+		break;
+	case "lession7-day48":
+		include("lession07/lession7-day48.html");
+		break;
+	case "lession7-day49":
+		include("lession07/lession7-day49.html");
+		break;
+
+	//lession 08
+	case "lession8-day50":
+		include("lession08/lession8-day50.html");
+		break;
+	case "lession8-day51":
+		include("lession08/lession8-day51.html");
+		break;
+	case "lession8-day52":
+		include("lession08/lession8-day52.html");
+		break;
+	case "lession8-day53":
+		include("lession08/lession8-day53.html");
+		break;
+	case "lession8-day54":
+		include("lession08/lession8-day54.html");
+		break;
+	case "lession8-day55":
+		include("lession08/lession8-day55.html");
+		break;
+	case "lession8-day56":
+		include("lession08/lession8-day56.html");
+		break;
+
+	//lession 09
+	case "lession9-day57":
+		include("lession09/lession9-day57.html");
+		break;
+	case "lession9-day58":
+		include("lession09/lession9-day58.html");
+		break;
+	case "lession9-day59":
+		include("lession09/lession9-day59.html");
+		break;
+	case "lession9-day60":
+		include("lession09/lession9-day60.html");
+		break;
+	case "lession9-day61":
+		include("lession09/lession9-day61.html");
+		break;
+	case "lession9-day62":
+		include("lession09/lession9-day62.html");
+		break;
+	case "lession9-day63":
+		include("lession09/lession9-day63.html");
+		break;
+
 	default:
 		include("body-container.html");
 		break;

@@ -6,7 +6,7 @@ if (isset($_GET['directional'])) { $directional=$_GET['directional'];
 
   switch ($directional) {
     case "lession5-day29":
-      echo "<div class='panel panel-warning'>
+      echo "<div class='panel panel-success'>
       <div class='panel-heading clickable'>
         <h3 class='panel-title'>
           Lesson 05 - Hobbies
@@ -16,7 +16,7 @@ if (isset($_GET['directional'])) { $directional=$_GET['directional'];
       break;
   
     case "lession5-day30":
-      echo "<div class='panel panel-warning'>
+      echo "<div class='panel panel-success'>
       <div class='panel-heading clickable'>
         <h3 class='panel-title'>
           Lesson 05 - Hobbies
@@ -26,7 +26,7 @@ if (isset($_GET['directional'])) { $directional=$_GET['directional'];
       break;
   
     case "lession5-day31":
-      echo "<div class='panel panel-warning'>
+      echo "<div class='panel panel-success'>
       <div class='panel-heading clickable'>
         <h3 class='panel-title'>
           Lesson 05 - Hobbies
@@ -36,7 +36,7 @@ if (isset($_GET['directional'])) { $directional=$_GET['directional'];
       break;
   
     case "lession5-day32":
-      echo "<div class='panel panel-warning'>
+      echo "<div class='panel panel-success'>
       <div class='panel-heading clickable'>
         <h3 class='panel-title'>
           Lesson 05 - Hobbies
@@ -46,7 +46,7 @@ if (isset($_GET['directional'])) { $directional=$_GET['directional'];
       break;
   
     case "lession5-day33":
-      echo "<div class='panel panel-warning'>
+      echo "<div class='panel panel-success'>
       <div class='panel-heading clickable'>
         <h3 class='panel-title'>
           Lesson 05 - Hobbies
@@ -56,7 +56,7 @@ if (isset($_GET['directional'])) { $directional=$_GET['directional'];
       break;
   
     case "lession5-day34":
-      echo "<div class='panel panel-warning'>
+      echo "<div class='panel panel-success'>
       <div class='panel-heading clickable'>
         <h3 class='panel-title'>
           Lesson 05 - Hobbies
@@ -66,7 +66,7 @@ if (isset($_GET['directional'])) { $directional=$_GET['directional'];
       break;
   
     case "lession5-day35":
-      echo "<div class='panel panel-warning'>
+      echo "<div class='panel panel-success'>
       <div class='panel-heading clickable'>
         <h3 class='panel-title'>
           Lesson 05 - Hobbies
@@ -76,7 +76,7 @@ if (isset($_GET['directional'])) { $directional=$_GET['directional'];
       break;
     
     default:
-      echo "<div class='panel panel-warning autocollapse'>
+      echo "<div class='panel panel-success autocollapse'>
       <div class='panel-heading clickable'>
         <h3 class='panel-title'>
           Lesson 05 - Hobbies
