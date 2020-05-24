@@ -232,7 +232,30 @@ switch ($directional_dieuhuong) {
 		include("lession09/lession9-day63.html");
 		break;
 
-	default:
+//lession 10
+case "lession10-day64":
+	include("lession10/lession10-day64.html");
+	break;
+case "lession10-day65":
+	include("lession10/lession10-day65.html");
+	break;
+case "lession10-day66":
+	include("lession10/lession10-day66.html");
+	break;
+case "lession10-day67":
+	include("lession10/lession10-day67.html");
+	break;
+case "lession10-day68":
+	include("lession10/lession10-day68.html");
+	break;
+case "lession10-day69":
+	include("lession10/lession10-day69.html");
+	break;
+case "lession10-day70":
+	include("lession10/lession10-day70.html");
+	break;
+
+		default:
 		include("body-container.html");
 		break;
 }

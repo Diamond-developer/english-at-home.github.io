@@ -72,10 +72,40 @@
         </div>
 
         <div class="col-md-12">
+          <!-- lessione 07 -->
+          <?php
+            include("menu-lession7.php");
+          ?>
+            </div>
+          </div>
+          <!-- lessione 08 -->
+          <?php
+            include("menu-lession8.php");
+          ?>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-12">
+          <!-- lessione 09 -->
+          <?php
+            include("menu-lession9.php");
+          ?>
+            </div>
+          </div>
+          <!-- lessione 10 -->
+          <?php
+            include("menu-lession10.php");
+          ?>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-12">
           <div class="panel panel-info autocollapse">
             <div class="panel-heading clickable">
               <h3 class="panel-title">
-                Lesson 7
+                Lesson 11
               </h3>
             </div>
             <div class="panel-body">
@@ -85,7 +115,145 @@
           <div class="panel panel-danger autocollapse">
             <div class="panel-heading clickable">
               <h3 class="panel-title">
-                Lesson 8
+                Lesson 12
+              </h3>
+            </div>
+            <div class="panel-body">
+              <div class="alert alert-danger" role="alert">SPOILER ALERT!</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-12">
+          <div class="panel panel-info autocollapse">
+            <div class="panel-heading clickable">
+              <h3 class="panel-title">
+                Lesson 13
+              </h3>
+            </div>
+            <div class="panel-body">
+              <div class="alert alert-danger" role="alert">SPOILER ALERT!</div>
+            </div>
+          </div>
+          <div class="panel panel-danger autocollapse">
+            <div class="panel-heading clickable">
+              <h3 class="panel-title">
+                Lesson 14
+              </h3>
+            </div>
+            <div class="panel-body">
+              <div class="alert alert-danger" role="alert">SPOILER ALERT!</div>
+            </div>
+          </div>
+        </div>
+        
+        <div class="col-md-12">
+          <div class="panel panel-info autocollapse">
+            <div class="panel-heading clickable">
+              <h3 class="panel-title">
+                Lesson 15
+              </h3>
+            </div>
+            <div class="panel-body">
+              <div class="alert alert-danger" role="alert">SPOILER ALERT!</div>
+            </div>
+          </div>
+          <div class="panel panel-danger autocollapse">
+            <div class="panel-heading clickable">
+              <h3 class="panel-title">
+                Lesson 16
+              </h3>
+            </div>
+            <div class="panel-body">
+              <div class="alert alert-danger" role="alert">SPOILER ALERT!</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-12">
+          <div class="panel panel-info autocollapse">
+            <div class="panel-heading clickable">
+              <h3 class="panel-title">
+                Lesson 17
+              </h3>
+            </div>
+            <div class="panel-body">
+              <div class="alert alert-danger" role="alert">SPOILER ALERT!</div>
+            </div>
+          </div>
+          <div class="panel panel-danger autocollapse">
+            <div class="panel-heading clickable">
+              <h3 class="panel-title">
+                Lesson 18
+              </h3>
+            </div>
+            <div class="panel-body">
+              <div class="alert alert-danger" role="alert">SPOILER ALERT!</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-12">
+          <div class="panel panel-info autocollapse">
+            <div class="panel-heading clickable">
+              <h3 class="panel-title">
+                Lesson 19
+              </h3>
+            </div>
+            <div class="panel-body">
+              <div class="alert alert-danger" role="alert">SPOILER ALERT!</div>
+            </div>
+          </div>
+          <div class="panel panel-danger autocollapse">
+            <div class="panel-heading clickable">
+              <h3 class="panel-title">
+                Lesson 20
+              </h3>
+            </div>
+            <div class="panel-body">
+              <div class="alert alert-danger" role="alert">SPOILER ALERT!</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-12">
+          <div class="panel panel-info autocollapse">
+            <div class="panel-heading clickable">
+              <h3 class="panel-title">
+                Lesson 21
+              </h3>
+            </div>
+            <div class="panel-body">
+              <div class="alert alert-danger" role="alert">SPOILER ALERT!</div>
+            </div>
+          </div>
+          <div class="panel panel-danger autocollapse">
+            <div class="panel-heading clickable">
+              <h3 class="panel-title">
+                Lesson 22
+              </h3>
+            </div>
+            <div class="panel-body">
+              <div class="alert alert-danger" role="alert">SPOILER ALERT!</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-12">
+          <div class="panel panel-info autocollapse">
+            <div class="panel-heading clickable">
+              <h3 class="panel-title">
+                Lesson 23
+              </h3>
+            </div>
+            <div class="panel-body">
+              <div class="alert alert-danger" role="alert">SPOILER ALERT!</div>
+            </div>
+          </div>
+          <div class="panel panel-danger autocollapse">
+            <div class="panel-heading clickable">
+              <h3 class="panel-title">
+                Lesson 24
               </h3>
             </div>
             <div class="panel-body">
